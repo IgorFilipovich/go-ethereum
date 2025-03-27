@@ -22,16 +22,16 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/IgorFilipovich/go-ethereum/common"
+	"github.com/IgorFilipovich/go-ethereum/consensus/beacon"
+	"github.com/IgorFilipovich/go-ethereum/consensus/ethash"
+	"github.com/IgorFilipovich/go-ethereum/core/rawdb"
+	"github.com/IgorFilipovich/go-ethereum/core/types"
+	"github.com/IgorFilipovich/go-ethereum/core/vm"
+	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/go-ethereum/params"
+	"github.com/IgorFilipovich/go-ethereum/triedb"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/beacon"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/triedb"
 )
 
 func TestGeneratePOSChain(t *testing.T) {

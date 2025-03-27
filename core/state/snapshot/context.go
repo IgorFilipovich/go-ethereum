@@ -23,11 +23,11 @@ import (
 	"math"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/IgorFilipovich/go-ethereum/common"
+	"github.com/IgorFilipovich/go-ethereum/core/rawdb"
+	"github.com/IgorFilipovich/go-ethereum/ethdb"
+	"github.com/IgorFilipovich/go-ethereum/ethdb/memorydb"
+	"github.com/IgorFilipovich/go-ethereum/log"
 )
 
 const (

@@ -21,7 +21,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/IgorFilipovich/go-ethereum/p2p/enode"
 )
 
 type BucketNode struct {

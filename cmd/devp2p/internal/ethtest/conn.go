@@ -24,13 +24,13 @@ import (
 	"reflect"
 	"time"
 
+	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/go-ethereum/eth/protocols/eth"
+	"github.com/IgorFilipovich/go-ethereum/eth/protocols/snap"
+	"github.com/IgorFilipovich/go-ethereum/p2p"
+	"github.com/IgorFilipovich/go-ethereum/p2p/rlpx"
+	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/eth/protocols/snap"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
-	"github.com/ethereum/go-ethereum/rlp"
 )
 
 var (

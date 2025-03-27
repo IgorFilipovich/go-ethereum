@@ -19,11 +19,11 @@ package vm
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/IgorFilipovich/go-ethereum/common"
+	"github.com/IgorFilipovich/go-ethereum/common/math"
+	"github.com/IgorFilipovich/go-ethereum/core/tracing"
+	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/holiman/uint256"
 )
 

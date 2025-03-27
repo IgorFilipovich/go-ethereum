@@ -19,8 +19,8 @@ package ethconfig
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/IgorFilipovich/go-ethereum/common"
+	"github.com/IgorFilipovich/go-ethereum/params"
 )
 
 // HistoryMode configures history pruning.
