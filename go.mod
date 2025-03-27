@@ -1,10 +1,9 @@
-module github.com/ethereum/go-ethereum
+module github.com/IgorFilipovich/go-ethereum
 
 go 1.23.0
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.2.0
-	github.com/IgorFilipovich/go-ethereum v0.0.0-20250327230439-7fd21462db3e
 	github.com/Microsoft/go-winio v0.6.2
 	github.com/VictoriaMetrics/fastcache v1.12.2
 	github.com/aws/aws-sdk-go-v2 v1.21.2
