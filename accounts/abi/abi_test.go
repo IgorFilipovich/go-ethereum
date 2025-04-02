@@ -28,7 +28,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/math"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/internal/testrand"
 )
 

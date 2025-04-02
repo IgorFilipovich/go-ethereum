@@ -35,7 +35,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/state/snapshot"
 	"github.com/IgorFilipovich/go-ethereum/core/tracing"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/IgorFilipovich/go-ethereum/trie"
 	"github.com/IgorFilipovich/go-ethereum/trie/trienode"

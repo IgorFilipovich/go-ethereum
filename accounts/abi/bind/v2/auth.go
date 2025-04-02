@@ -27,7 +27,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/accounts/keystore"
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // ErrNotAuthorized is returned when an account is not properly unlocked.

@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 )
 

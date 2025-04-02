@@ -27,7 +27,7 @@ import (
 	"strconv"
 
 	"github.com/IgorFilipovich/go-ethereum/common/math"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enr"
 )
 

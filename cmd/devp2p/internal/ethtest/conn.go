@@ -24,7 +24,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/eth/protocols/eth"
 	"github.com/IgorFilipovich/go-ethereum/eth/protocols/snap"
 	"github.com/IgorFilipovich/go-ethereum/p2p"

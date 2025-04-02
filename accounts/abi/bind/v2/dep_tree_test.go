@@ -23,7 +23,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"golang.org/x/exp/rand"
 )
 

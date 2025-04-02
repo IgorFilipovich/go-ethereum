@@ -19,7 +19,7 @@ package trie
 import (
 	"sync"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 )
 

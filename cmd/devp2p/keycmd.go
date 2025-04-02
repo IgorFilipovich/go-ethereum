@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enr"
 	"github.com/urfave/cli/v2"

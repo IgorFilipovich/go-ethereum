@@ -25,7 +25,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/math"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // MakeTopics converts a filter query argument list into a filter topic set.

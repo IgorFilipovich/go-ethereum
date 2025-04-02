@@ -56,7 +56,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto/signify"
+	"github.com/IgorFilipovich/crypto/signify"
 	"github.com/IgorFilipovich/go-ethereum/internal/build"
 	"github.com/IgorFilipovich/go-ethereum/internal/version"
 	"github.com/cespare/cp"

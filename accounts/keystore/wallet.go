@@ -22,7 +22,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum"
 	"github.com/IgorFilipovich/go-ethereum/accounts"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

@@ -23,7 +23,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/accounts/keystore"
 	"github.com/IgorFilipovich/go-ethereum/cmd/utils"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/urfave/cli/v2"
 )
 

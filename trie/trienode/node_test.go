@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 func BenchmarkMerge(b *testing.B) {

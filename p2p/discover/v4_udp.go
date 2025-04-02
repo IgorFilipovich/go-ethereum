@@ -29,7 +29,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/p2p/discover/v4wire"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"

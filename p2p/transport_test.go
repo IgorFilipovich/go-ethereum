@@ -22,7 +22,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p/pipes"
 	"github.com/davecgh/go-spew/spew"
 )

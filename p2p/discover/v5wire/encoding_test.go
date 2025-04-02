@@ -33,7 +33,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common/hexutil"
 	"github.com/IgorFilipovich/go-ethereum/common/mclock"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"
 )
 

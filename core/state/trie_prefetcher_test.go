@@ -24,7 +24,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/rawdb"
 	"github.com/IgorFilipovich/go-ethereum/core/tracing"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/internal/testrand"
 	"github.com/IgorFilipovich/go-ethereum/triedb"
 	"github.com/holiman/uint256"

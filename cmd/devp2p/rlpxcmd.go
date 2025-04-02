@@ -22,7 +22,7 @@ import (
 	"net"
 
 	"github.com/IgorFilipovich/go-ethereum/cmd/devp2p/internal/ethtest"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"
 	"github.com/IgorFilipovich/go-ethereum/p2p/rlpx"

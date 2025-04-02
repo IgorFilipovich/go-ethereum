@@ -23,7 +23,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/ethdb/memorydb"
 	"github.com/VictoriaMetrics/fastcache"
 )

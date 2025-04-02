@@ -32,7 +32,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/state"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
 	"github.com/IgorFilipovich/go-ethereum/core/vm"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/eth/tracers"
 	"github.com/IgorFilipovich/go-ethereum/params"
 	"github.com/IgorFilipovich/go-ethereum/tests"

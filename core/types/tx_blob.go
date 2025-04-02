@@ -23,7 +23,7 @@ import (
 	"math/big"
 
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/go-ethereum/params"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/holiman/uint256"

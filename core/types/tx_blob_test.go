@@ -21,8 +21,8 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/holiman/uint256"
 )
 

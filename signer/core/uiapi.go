@@ -28,7 +28,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/accounts/keystore"
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/math"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // UIServerAPI implements methods Clef provides for a UI to query, in the bidirectional communication

@@ -21,7 +21,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/rawdb"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

@@ -29,7 +29,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/prque"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/go-ethereum/eth/ethconfig"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/metrics"

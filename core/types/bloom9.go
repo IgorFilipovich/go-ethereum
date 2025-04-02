@@ -22,7 +22,7 @@ import (
 	"math/big"
 
 	"github.com/IgorFilipovich/go-ethereum/common/hexutil"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 type bytesBacked interface {

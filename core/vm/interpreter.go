@@ -22,7 +22,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/math"
 	"github.com/IgorFilipovich/go-ethereum/core/tracing"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/holiman/uint256"
 )

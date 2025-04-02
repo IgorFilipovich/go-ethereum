@@ -24,7 +24,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/internal/utesting"
 	"github.com/IgorFilipovich/go-ethereum/p2p/discover/v4wire"
 )

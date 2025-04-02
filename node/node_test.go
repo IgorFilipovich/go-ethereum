@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/ethdb"
 	"github.com/IgorFilipovich/go-ethereum/p2p"
 	"github.com/IgorFilipovich/go-ethereum/rpc"

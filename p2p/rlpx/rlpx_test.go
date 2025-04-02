@@ -28,8 +28,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
-	"github.com/IgorFilipovich/go-ethereum/crypto/ecies"
+	"github.com/IgorFilipovich/crypto"
+	"github.com/IgorFilipovich/crypto/ecies"
 	"github.com/IgorFilipovich/go-ethereum/p2p/pipes"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/davecgh/go-spew/spew"

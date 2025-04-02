@@ -24,7 +24,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/rawdb"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/ethdb"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/rlp"

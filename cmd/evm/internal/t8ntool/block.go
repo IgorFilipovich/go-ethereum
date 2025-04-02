@@ -29,7 +29,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/common/math"
 	"github.com/IgorFilipovich/go-ethereum/consensus/clique"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/urfave/cli/v2"
 )

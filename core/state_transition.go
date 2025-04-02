@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/tracing"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
 	"github.com/IgorFilipovich/go-ethereum/core/vm"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/go-ethereum/params"
 	"github.com/holiman/uint256"
 )

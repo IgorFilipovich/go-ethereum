@@ -33,7 +33,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/accounts/abi"
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/event"
 )
 

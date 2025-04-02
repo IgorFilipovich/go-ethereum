@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/accounts/abi/bind/v2"
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/ethclient/simulated"
 	"github.com/IgorFilipovich/go-ethereum/params"
 )

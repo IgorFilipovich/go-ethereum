@@ -25,7 +25,7 @@ import (
 	"math/big"
 
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // The ABI holds information about a contract's context and available

@@ -30,7 +30,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/consensus/misc/eip4844"
 	"github.com/IgorFilipovich/go-ethereum/core"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/params"
 	"github.com/IgorFilipovich/go-ethereum/rpc"

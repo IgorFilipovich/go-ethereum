@@ -30,7 +30,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/accounts"
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/google/uuid"
 )
 

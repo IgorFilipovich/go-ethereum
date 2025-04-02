@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto/secp256k1"
+	"github.com/IgorFilipovich/crypto/secp256k1"
 	dcred_secp256k1 "github.com/decred/dcrd/dcrec/secp256k1/v4"
 )
 

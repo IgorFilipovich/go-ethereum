@@ -27,7 +27,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/state"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/eth/protocols/snap"
 	"github.com/IgorFilipovich/go-ethereum/internal/utesting"
 	"github.com/IgorFilipovich/go-ethereum/trie"

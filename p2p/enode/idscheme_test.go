@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enr"
 	"github.com/IgorFilipovich/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"

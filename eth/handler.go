@@ -29,7 +29,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/forkid"
 	"github.com/IgorFilipovich/go-ethereum/core/txpool"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/eth/downloader"
 	"github.com/IgorFilipovich/go-ethereum/eth/ethconfig"
 	"github.com/IgorFilipovich/go-ethereum/eth/fetcher"

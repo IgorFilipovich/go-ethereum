@@ -36,7 +36,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/state"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
 	"github.com/IgorFilipovich/go-ethereum/core/vm"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/eth/gasestimator"
 	"github.com/IgorFilipovich/go-ethereum/eth/tracers/logger"
 	"github.com/IgorFilipovich/go-ethereum/internal/ethapi/override"

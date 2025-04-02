@@ -26,7 +26,7 @@ import (
 	"fmt"
 
 	"github.com/IgorFilipovich/go-ethereum/accounts"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/google/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

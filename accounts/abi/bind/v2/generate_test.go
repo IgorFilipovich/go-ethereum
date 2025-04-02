@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/accounts/abi/abigen"
 	"github.com/IgorFilipovich/go-ethereum/cmd/utils"
 	"github.com/IgorFilipovich/go-ethereum/common/compiler"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // Run go generate to recreate the test bindings.

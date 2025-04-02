@@ -35,7 +35,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/common/hexutil"
 	"github.com/IgorFilipovich/go-ethereum/core/vm"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	jsassets "github.com/IgorFilipovich/go-ethereum/eth/tracers/js/internal/tracers"
 )
 

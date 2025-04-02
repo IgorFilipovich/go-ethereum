@@ -23,7 +23,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/go-ethereum/accounts/abi"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 type bindV2Test struct {

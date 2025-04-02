@@ -28,7 +28,7 @@ import (
 	"time"
 
 	"github.com/IgorFilipovich/go-ethereum/common/mclock"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/internal/testlog"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"

@@ -36,7 +36,7 @@ import (
 	"github.com/IgorFilipovich/go-ethereum/core/state"
 	"github.com/IgorFilipovich/go-ethereum/core/txpool"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/go-ethereum/event"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/metrics"

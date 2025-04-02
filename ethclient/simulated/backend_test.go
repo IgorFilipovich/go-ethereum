@@ -27,13 +27,13 @@ import (
 
 	"go.uber.org/goleak"
 
-	"github.com/IgorFilipovich/go-ethereum/crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/holiman/uint256"
 
 	"github.com/IgorFilipovich/go-ethereum/accounts/abi/bind"
 	"github.com/IgorFilipovich/go-ethereum/common"
 	"github.com/IgorFilipovich/go-ethereum/core/types"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/params"
 )
 

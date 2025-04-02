@@ -28,7 +28,7 @@ import (
 
 	"github.com/IgorFilipovich/go-ethereum/cmd/devp2p/internal/v4test"
 	"github.com/IgorFilipovich/go-ethereum/common"
-	"github.com/IgorFilipovich/go-ethereum/crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/go-ethereum/log"
 	"github.com/IgorFilipovich/go-ethereum/p2p/discover"
 	"github.com/IgorFilipovich/go-ethereum/p2p/enode"
